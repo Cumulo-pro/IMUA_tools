@@ -1,6 +1,6 @@
 # IMUA Metrics and Grafana Dashboard
 
-This repository contains detailed information about Story metrics and the associated Grafana dashboard.  
+This repository contains detailed information about IMUA metrics and the associated Grafana dashboard.  
 
 ## First steps  
 
