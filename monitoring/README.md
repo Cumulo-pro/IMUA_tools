@@ -1,6 +1,6 @@
 # IMUA Metrics and Grafana Dashboard
 
-![PortadaGithub Imua-01 (2)](https://github.com/user-attachments/assets/c73a6b08-9a22-4ce2-a24f-b97fbabdba65)
+![PortadaGithub Imua-01 (3)](https://github.com/user-attachments/assets/751e502c-fd86-4413-8cca-3167d2dd143b)
 
 This repository contains detailed information about IMUA metrics and the associated Grafana dashboard.  
 
