@@ -58,7 +58,7 @@ Story metrics provide essential information for monitoring and evaluating the pe
 
 For a complete description of the available metrics, check out the metrics document below.
 
-[![Metrics](https://img.shields.io/badge/Metrics-View%20Metrics-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cumulo-pro/ExocoreTools/blob/main/monitoring/exocore_metrics.md)
+[![Metrics](https://img.shields.io/badge/Metrics-View%20Metrics-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cumulo-pro/IMUA_tools/blob/main/monitoring/imua_metrics.md)
 
 ## Grafana Dashboard
 
@@ -66,4 +66,4 @@ The Grafana dashboard for Exocore metrics provides an interactive, real-time vis
 
 You can download the Grafana dashboard from the links below:
 
-[![Grafana Dashboard](https://img.shields.io/badge/Grafana%20Dashboard-Download-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cumulo-pro/ExocoreTools/blob/main/monitoring/Exocore%20Dashboard%20by%20Cumulo-1730658412878.json)
+[![Grafana Dashboard](https://img.shields.io/badge/Grafana%20Dashboard-Download-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cumulo-pro/IMUA_tools/blob/main/monitoring/Imua%20Dashboard%20by%20Cumulo%20Copy-1742194559550.json)
